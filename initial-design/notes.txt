@@ -1,0 +1,6 @@
+Notes
+
+1) We will flush your account details after 60 days of inactivity
+========
+1) User configuration file containing schema information
+2) Tired of writing a resume for each job you're applying to?
